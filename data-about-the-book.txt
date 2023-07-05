@@ -1,5 +1,5 @@
-{"bookname": "piramide da sabedoria"}
-{"publicado":"2019"}
-{"avaliação":"5.0"}
-{"escritor":"breetMcRkenn"}
-{"descrição":"este é um belo livro"}§
+{"bookname": "piramide da sabedoria",
+"publicado":"2019",
+"avaliação":"5.0",
+"escritor":"breetMcRkenn",
+"descrição":"este é um belo livro"}§
