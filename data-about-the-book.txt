@@ -2,4 +2,4 @@
 "publicado":"2019",
 "avaliação":"5.0",
 "escritor":"breetMcRkenn",
-"descrição":"este é um belo livro"}§
+"descrição":"este é um belo livro"}/
